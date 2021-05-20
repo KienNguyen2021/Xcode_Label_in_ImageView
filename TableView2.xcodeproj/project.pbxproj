@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2118F9DD2655E55000F12C82 /* ManHinh2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2118F9DC2655E55000F12C82 /* ManHinh2ViewController.swift */; };
 		219594682654D03C0015DCAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219594672654D03C0015DCAE /* AppDelegate.swift */; };
 		2195946A2654D03C0015DCAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219594692654D03C0015DCAE /* SceneDelegate.swift */; };
 		2195946C2654D03C0015DCAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2195946B2654D03C0015DCAE /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2118F9DC2655E55000F12C82 /* ManHinh2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManHinh2ViewController.swift; sourceTree = "<group>"; };
 		219594642654D03C0015DCAE /* TableView2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableView2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		219594672654D03C0015DCAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		219594692654D03C0015DCAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				219594722654D03D0015DCAE /* LaunchScreen.storyboard */,
 				219594752654D03D0015DCAE /* Info.plist */,
 				2195947B2654D7EC0015DCAE /* DONGTableViewCell.swift */,
+				2118F9DC2655E55000F12C82 /* ManHinh2ViewController.swift */,
 			);
 			path = TableView2;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				2195946C2654D03C0015DCAE /* ViewController.swift in Sources */,
 				2195947C2654D7EC0015DCAE /* DONGTableViewCell.swift in Sources */,
 				219594682654D03C0015DCAE /* AppDelegate.swift in Sources */,
+				2118F9DD2655E55000F12C82 /* ManHinh2ViewController.swift in Sources */,
 				2195946A2654D03C0015DCAE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
